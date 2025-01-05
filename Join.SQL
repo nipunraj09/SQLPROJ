@@ -1,4 +1,4 @@
-
+-- will add inner join too. 
 use mskjoi;
 
 select * from ordernumdata;
