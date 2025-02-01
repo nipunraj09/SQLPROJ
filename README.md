@@ -7,3 +7,4 @@ kyiev we will use py
 this has to be diff and addition of dart need to take place
 tomm will take source ex projectneed to adddart
 this will be different johan
+dietrr is dead lmao
