@@ -1,4 +1,4 @@
-hiii# SQLPROJ
+jhiii# SQLPROJ
 Hi,this repository contains some codes for DATA analysis, visualisation and cleaning
 I have also added code for duplicate removal and string analysis
 there is addition in joins will further update tomm
@@ -9,5 +9,5 @@ tomm will take source ex projectneed to adddart
 this will be different johan
 dietrr is dead lmao
 jdbc pain in life
-birpalecxess
+birpalecxess good place
 edi
