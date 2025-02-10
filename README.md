@@ -10,4 +10,4 @@ this will be different johan
 dietrr is dead lmao
 jdbc pain in life
 birpalecxess good place
-edi
+edi, time doesn't escape
