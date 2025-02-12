@@ -23,4 +23,7 @@ select * from ordernumdata
  left outer join product
 on ordernumdata.ordernumber = product.ordernumber;
 
-
+select * from students;
+left outer join product
+on students.diji=product.diji
+//This is updated
