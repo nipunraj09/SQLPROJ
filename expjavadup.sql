@@ -6,3 +6,10 @@ DELETE FROM expjava
 WHERE Id IN (
     SELECT Id FROM CTE WHERE row_num > 1
 );
+
+
+
+update expjava set Qpcode='',Answerbookletcode='';
+
+
+update expjava set UpdatedAt=NULL;
