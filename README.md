@@ -12,4 +12,4 @@ jdbc pain in life
 birpalecxess good place
 hshhedi, time doesn't escape
 chadta
-change in plann
+change in plann ling lang
