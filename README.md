@@ -16,3 +16,4 @@ chadta
 change in plann ling lang relia icc
 cont
 tiktokh
+ka
