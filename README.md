@@ -16,5 +16,5 @@ chadta
 change in plann ling lang relia icc
 cont
 tiktokhjj
-kaki
+kaki if
 y
