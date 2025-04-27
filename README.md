@@ -14,7 +14,7 @@ birpalecxess good place
 hshhedi, time doesn't escape
 chadta
 change in plann ling lang relia icc
-cont
+cont diff types
 tiktokhjj
 kaki if er
 yhh assishh self  java
