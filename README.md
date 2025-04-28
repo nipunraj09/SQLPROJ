@@ -12,7 +12,7 @@ jdbc pain in life
 conjuri
 birpalecxess good place
 hshhedi, time doesn't escape
-chadta
+chadtagohan
 change in plann ling lang relia icc
 cont diff types
 tiktokhjj
