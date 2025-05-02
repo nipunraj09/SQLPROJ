@@ -8,7 +8,7 @@ this has to be diff and addition of dart need to take place
 tomm will take source ex projectneed to adddart
 this will be different johan
 dietrr is dead lmao
-jdbc pain in life
+jdbc pain in life na
 conjuri
 birpalecxess good place
 hshhedi, time doesn't escape
