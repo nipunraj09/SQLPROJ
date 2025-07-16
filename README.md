@@ -1,6 +1,6 @@
 huayihleduldarrgllike
 lalalalilentathhujjgjujjjjhmajhiii# SQLPROJ
-Hi,this repository contains some codes hifor DATA analysis, visualisation and cleaningbu
+Hi,this repository contains some codes hifor DATA analysis, ydvisualisation and cleaningbu
 I have also added code for duplicate removal and string analysis
 there is addition ibn joins will further update tommh
 ther would be addition of union and int lvl vodeaddition of etl would further enhance the code
