@@ -1,5 +1,5 @@
 frhuayihleduldarrgllike
-lalalalilentathhujjgjujjjjhmajhiii# SQLPROJ
+lalalalilentathhujjgjujjjjhmajhiii# hSQLPROJ
 Hi,this repository contains some codes hifor DATA analysis, ydvisualisation and cleaningbu
 I have also added code for duplicate removal and string analysis
 there is addition ibn joins will further update tommh
