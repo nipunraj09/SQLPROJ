@@ -1,4 +1,4 @@
-subdakullhaghnajmtbadluulughhgnahutfrhuayihleduldarrglligadke
+nimsubdakullhaghnajmtbadluulughhgnahutfrhuayihleduldarrglligadke
 jlalalalilentathhujjgjujjjjhmajhiii# hSQLPROJ
 Hi,this repository contains some codes hifor DATA analysis, ydvisualijsation and cleaningbubul
 I have also added code for duplicate removal and string analysis
