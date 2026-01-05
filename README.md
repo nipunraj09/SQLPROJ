@@ -1,5 +1,5 @@
 juhjlonjjjjnhbbbyhtawgbefgtghuguhftfhlaudgtalathusaintyyhbghedgbgyghhutgthfghulomvhghffhuijmnkjhbjikkjjhudahiylohbopenopennujwisdgbjrovnoidimerdfhugoodkutnimsubdakullhaghnajmtbadluulughhgdfnajihutfrhuayihleduldarrglligadkehalitfkkssik
-jijikjlalalalilentathhujjgjujjjjhmajhiii# hSQLPROJ
+jijijikjlalalalilentathhujjgjujjjjhmajhiii# hSQLPROJ
 Hi,this repository contains some codes hifor DATA analysis, ydvisualijsation and cleaningbubul
 I have also added code for duplicate removal and string analysis
 there is addition ibn joins will further update tommh
